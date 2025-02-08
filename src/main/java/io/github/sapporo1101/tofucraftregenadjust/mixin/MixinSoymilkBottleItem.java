@@ -1,7 +1,7 @@
 package io.github.sapporo1101.tofucraftregenadjust.mixin;
 
-import baguchi.tofucraft.item.SoymilkBottleItem;
-import baguchi.tofucraft.registry.TofuEffects;
+import baguchan.tofucraft.item.SoymilkBottleItem;
+import baguchan.tofucraft.registry.TofuEffects;
 import net.minecraft.core.Holder;
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffectInstance;
